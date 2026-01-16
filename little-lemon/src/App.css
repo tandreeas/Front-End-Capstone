@@ -427,9 +427,7 @@ footer .container {
 }
 
 /* Banner */
-.banner-main-container {
-  margin-bottom: 70px;
-}
+
 .banner-infos {
   max-width: calc(100% - 70px - 420px);
 }
